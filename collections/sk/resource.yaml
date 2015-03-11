@@ -1,0 +1,4 @@
+type:       index
+language:   data:/languages/sk.yaml
+data:       data:/index.yaml
+collection: data:/site.yaml

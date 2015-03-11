@@ -1,0 +1,7 @@
+title:
+    sk_SK: Defaultná appka
+    en_EN: Default App
+subtitle:
+    sk_SK: Ahoj svet!
+    en_EN: Hello World!
+copyrightYear: {copyrightYear(): {since: 2014}}
